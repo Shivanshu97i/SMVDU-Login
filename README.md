@@ -1,6 +1,6 @@
 # SMVDU Login
 
-Firstly we will need the selenium web driver which will be automatically installed from the login.sh scipt.
+Firstly we will need the selenium web driver which will be automatically installed from the login.sh script.
 
 This is a code written to login automatically to SOFOS.
 
