@@ -1,3 +1,6 @@
+sudo pip3 install selenium
+
+sudo apt install chromium-chromedriver
 
 cd ~/.config/autostart/
 
