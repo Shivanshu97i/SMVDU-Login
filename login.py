@@ -20,4 +20,4 @@ password.send_keys("YOUR_PASSWORD")
 signIn = driver.find_element(By.ID,"loginbutton")
 signIn.click()
 
-time.sleep(20)
+time.sleep(5)
