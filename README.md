@@ -1,8 +1,8 @@
 # SMVDU Login
 
-Firstly we will need the selenium web driver which will be automatically installed from the login.sh script.
-
 This is a code written to login automatically to SOFOS.
+
+Firstly we will need the selenium web driver which will be automatically installed from the login.sh script.
 
 You will have to clone the repo with the ` git clone https://github.com/Shivanshu97i/SMVDU-Login.git` command.
 
